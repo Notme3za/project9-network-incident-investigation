@@ -1,0 +1,12 @@
+# Raw lab evidence may contain private IPs, host details, and timestamps.
+*.pcap
+*.pcapng
+auth-log.txt
+checksums.sha256
+
+# Local editor and operating-system files
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
